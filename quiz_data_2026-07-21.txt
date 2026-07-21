@@ -1,0 +1,20 @@
+ENG:Hello!|你好|/həˈlo/
+ENG:Good morning!|早上好|/ɡʊd ˈmɔrnɪŋ/
+ENG:Thank you!|謝謝你|/θæŋk ju/
+ENG:You're welcome|不客氣|/jʊr ˈwɛl.kəm/
+ENG:How are you?|你好嗎|/haʊ ɑr ju/
+ENG:I'm fine|我很好|/aɪm faɪn/
+ENG:Nice to meet you|很高興認識你|/naɪs tu mit ju/
+ENG:What's your name?|你叫什麼名字|/wʌts jɔr nem/
+ENG:Where are you from?|你來自哪裡|/wɛr ɑr ju frʌm/
+ENG:See you later|再見|/si ju ˈleɪtɚ/
+JPN:料理（りょうり）|吃飯/烹飪
+JPN:映画（えいが）|電影
+JPN:散歩（さんぽ）|散步
+JPN:計画（けいかく）|計劃
+JPN:興味（きょうみ）|興趣
+JPN:経験（けいけん）|經驗
+JPN:主張（しゅちょう）|主張
+JPN:説明（せつめい）|說明
+JPN:調査（ちょうさ）|調查
+JPN:結果（けっか）|結果
